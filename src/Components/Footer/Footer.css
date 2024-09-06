@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+}
+
+.footer img{
+    width: 10%;
+
+}
+
+.links{
+    justify-content: space-around;
+    width: 15%;
+    display: flex;
+}
+
+a{
+    display: flex;
+    align-items: center;
+}
